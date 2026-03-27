@@ -88,13 +88,13 @@ You should see output like:
 ```
   VITE v5.0.0  ready in 300 ms
 
-  ➜  Local:   http://localhost:5173/
-  ➜  Network: http://192.168.1.5:5173/
+  ➜  Local:   http://localhost:3000/
+  ➜  Network: http://192.168.1.5:3000/
 ```
 
 ### Step 4: Open in Browser
 - Open your browser
-- Go to http://localhost:5173/
+- Go to http://localhost:3000/
 - You should see the React welcome page!
 
 ---
@@ -337,7 +337,7 @@ npm install
 
 ```bash
 # Clone the repository
-git clone https://github.com/Birungi-Faimah/react-beginner-toolkit.git
+git clone https://github.com/Birungi-Faimah/beginner_toolkit.git
 
 # Navigate into the project
 cd react-beginner-toolkit
@@ -349,7 +349,7 @@ npm install
 npm run dev
 ```
 
-Then open http://localhost:5173 in your browser!
+Then open http://localhost:3000 in your browser!
 
 ---
 
